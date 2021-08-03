@@ -7,8 +7,11 @@ function mostrar()
 
 	nota = Math.round(Math.random()*(maximo - minimo) + minimo);
 
+//o Math.floor(Mathrandom()*maximo+mínimo);
+							//10 +	1
+//Math.floor redondea para abajo siempre - Mahround depende de 0,5
 
-	if (nota>=9)
+if (nota>=9)
 	{
 		alert(+nota + "=EXCELENTE");
 	}

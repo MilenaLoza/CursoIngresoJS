@@ -12,5 +12,4 @@ function mostrar()
 	alert("Es de mañana");
 	break;
 	}
-
 }//FIN DE LA FUNCIÓN
